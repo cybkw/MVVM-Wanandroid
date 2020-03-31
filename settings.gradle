@@ -1,0 +1,2 @@
+include ':app', ':network', ':base', ':webview', ':common'
+rootProject.name='WanAndroid-MVVM'
